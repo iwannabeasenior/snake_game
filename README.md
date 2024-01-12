@@ -1,1 +1,1 @@
-rust project :)) 
+welcom to rust project :)) 
